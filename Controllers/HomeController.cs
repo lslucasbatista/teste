@@ -18,7 +18,7 @@ namespace WebSite.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Breve()
         {
             return View();
         }
